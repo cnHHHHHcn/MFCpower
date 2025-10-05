@@ -1,6 +1,6 @@
 # MFCPower
 This project is designed to display laptop battery and power status information.
-## Function
+## Functions
 1.Dynamically display laptop battery level, power state (e.g., charging/discharging), and other relevant information.
 
 2.Allows users to control the state of the NumLock, CapsLock, and ScrollLock keys directly from this application.
